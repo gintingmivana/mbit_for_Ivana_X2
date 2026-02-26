@@ -37,7 +37,7 @@ let y = [
 basic.forever(function () {
     for (let index = 0; index <= X.length; index++) {
         led.plot(X[index], y[index])
-        basic.pause(100)
+        basic.pause(200)
         basic.clearScreen()
     }
 })
