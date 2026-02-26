@@ -1,3 +1,4 @@
+music._playDefaultBackground(music.builtInPlayableMelody(Melodies.Dadadadum), music.PlaybackMode.LoopingInBackground)
 let X = [
 0,
 1,
